@@ -153,3 +153,4 @@ public class Game implements Runnable {
     public AudioPlayer getAudioPlayer() {
         return audioPlayer;
     }
+}
